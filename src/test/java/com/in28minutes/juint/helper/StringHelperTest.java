@@ -36,12 +36,12 @@ public class StringHelperTest {
 		assertFalse(helper.areFirstAndLastTwoCharactersTheSame("ABCD")) ;
 	}
 	
-	@Test
-	public void testAreFirstAndLastTwoCharactersTheSame_BasicPositiveScenerio() {
-		
-	//	assertEquals(false, helper.areFirstAndLastTwoCharactersTheSame("ABCD"));
-		assertTrue(helper.areFirstAndLastTwoCharactersTheSame("ABCD")) ;
-	}
+//	@Test
+//	public void testAreFirstAndLastTwoCharactersTheSame_BasicPositiveScenerio() {
+//		
+//	//	assertEquals(false, helper.areFirstAndLastTwoCharactersTheSame("ABCD"));
+//		assertTrue(helper.areFirstAndLastTwoCharactersTheSame("ABCD")) ;
+//	}
 	
 
 }
